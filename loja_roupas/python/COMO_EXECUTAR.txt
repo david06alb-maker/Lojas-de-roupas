@@ -1,0 +1,7 @@
+1. Abra um terminal nesta pasta.
+2. Entre na pasta python:
+   cd python
+3. Execute:
+   python main.py
+
+Não é necessário instalar bibliotecas externas: o projeto usa apenas módulos da biblioteca padrão do Python.
