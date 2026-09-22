@@ -1,6 +1,12 @@
 # Loja de Roupas — Atividade Integrada Banco de Dados com Python
 
-Projeto acadêmico de uma loja de roupas, desenvolvido para demonstrar conceitos de Banco de Dados e Python.
+## Objetivo do projeto 
+
+O projeto tem como objetivo desenvolver um sistema para gerenciamento de uma loja de roupas chamada Lume, utilizando Python integrado a um banco de dados relacional. 
+
+O sistema será responsável por armazenar e organizar informações relacionadas aos clientes, produtos, categorias, endereços, pedidos, itens dos pedidos, formas de pagamento e avaliações. 
+
+A aplicação deverá permitir o gerenciamento das informações da loja e possibilitar que os clientes realizem pedidos de produtos disponíveis no catálogo. 
 
 ## Tecnologias
 - PostgreSQL
