@@ -1,4 +1,4 @@
-Roteiro dos Slides — 30 minutos
+## Roteiro dos Slides — 30 minutos
 
 ## Slide 1 — Capa
 **Loja de Roupas — Sistema de Gerenciamento**
@@ -104,12 +104,5 @@ Explicar o que a equipe aprendeu e como Banco de Dados e Python foram integrados
 
 ## Divisão sugerida da apresentação
 
-### Integrante 1
-- Slides 1–12
-- DER e PostgreSQL
-
-### Integrante 2
-- Slides 13–23
-- SQL, Python, SQLite e demonstração
 
 
