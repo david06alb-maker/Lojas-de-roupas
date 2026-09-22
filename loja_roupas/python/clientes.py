@@ -2,7 +2,7 @@ from banco import conectar
 
 
 def cadastrar_cliente():
-    print("\n=== CADASTRAR CLIENTE ===")
+    print("\n==== CADASTRAR CLIENTE ====")
 
     nome = input("Nome: ")
     email = input("Email: ")

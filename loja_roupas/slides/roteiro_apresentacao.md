@@ -14,7 +14,7 @@ Criamos um sistema simples para organizar clientes, produtos, categorias e pedid
 - Possui relacionamentos claros entre tabelas.
 - Permite criar funcionalidades no Python.
 
-## Slide 4 — Problema
+## Slide 4 — Problema & solução
 Uma loja precisa organizar:
 - clientes;
 - produtos;
@@ -22,26 +22,27 @@ Uma loja precisa organizar:
 - estoque;
 - pedidos.
 
-## Slide 5 — Solução
 Sistema que centraliza essas informações em um banco de dados e oferece operações básicas por meio de Python.
 
-## Slide 6 — DER
+## Slide 5 — DER
 Mostrar o DER criado no DrawDB e explicar as cinco tabelas.
 
-## Slide 7 — Tabela cliente
+## Slide 6 — Tabela cliente
 Explicar PK, dados do cliente e relacionamento com pedido.
 
-## Slide 8 — Tabela categoria
+## Slide 7 — Tabela categoria
 Explicar a classificação dos produtos.
 
-## Slide 9 — Tabela produto
+## Slide 8 — Tabela produto
 Explicar preço, tamanho, estoque e FK da categoria.
 
-## Slide 10 — Tabela pedido
+## Slide 9 — Tabela pedido
 Explicar cliente, data e status.
 
-## Slide 11 — Tabela item_pedido
+## Slide 10 — Tabela item_pedido
 Explicar por que ela existe: um pedido pode possuir produtos e cada item registra quantidade e preço.
+
+## Slide 11 - Tabela avaliações
 
 ## Slide 12 — CREATE TABLE
 Mostrar partes do script de criação.
@@ -70,24 +71,21 @@ Explicar a divisão em módulos:
 - produtos.py
 - pedidos.py
 
-## Slide 18 — Funções
+## Slide 18 — Conceitos Python
 Mostrar que cada operação foi organizada em uma função.
 
-## Slide 19 — Listas e dicionários
 Mostrar exemplos usados no arquivo dados.py e explicar a diferença:
 - lista: coleção ordenada;
 - dicionário: dados organizados em chave e valor.
 
-## Slide 20 — Estruturas de decisão
 Mostrar `if`, `elif` e `else` usados no menu.
 
-## Slide 21 — Estruturas de repetição
 Mostrar o `while` responsável por manter o menu funcionando até o usuário escolher sair.
 
-## Slide 22 — SQLite
+## Slide 19 — SQLite
 Explicar que a aplicação Python usa SQLite localmente, conforme solicitado no enunciado.
 
-## Slide 23 — Demonstração
+## Slide 20 — Demonstração
 Executar o programa e demonstrar:
 1. listar produtos;
 2. cadastrar cliente;
@@ -95,13 +93,13 @@ Executar o programa e demonstrar:
 4. criar pedido;
 5. listar pedidos.
 
-## Slide 24 — Organização do GitHub
+## Slide 21 — Organização do GitHub
 Mostrar as pastas e arquivos do projeto.
 
-## Slide 25 — Fontes
+## Slide 22 — Fontes
 Apresentar as fontes consultadas para aprender PostgreSQL, Python, SQLite e modelagem de banco.
 
-## Slide 26 — Conclusão
+## Slide 23 — Conclusão
 Explicar o que a equipe aprendeu e como Banco de Dados e Python foram integrados.
 
 ## Divisão sugerida da apresentação
@@ -111,7 +109,7 @@ Explicar o que a equipe aprendeu e como Banco de Dados e Python foram integrados
 - DER e PostgreSQL
 
 ### Integrante 2
-- Slides 13–26
+- Slides 13–23
 - SQL, Python, SQLite e demonstração
 
 A divisão pode ser alterada para que os dois integrantes demonstrem partes do código que realmente fizeram.
